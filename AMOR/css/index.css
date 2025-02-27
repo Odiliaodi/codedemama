@@ -1,0 +1,49 @@
+.site{
+	width: 800px;
+	height: 800px;
+	background-color: red;
+}
+.cabecalho{
+	background-color: green;
+	height: 90px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.corpo{
+	height: 610px;
+	width: 700px;
+}
+.sidebar{
+	background-color: blue;
+	height: 500px;
+	width: 200px;
+	float: left;
+}
+.sidebar form {
+	height: 20px;
+	width: 20px;
+	background-color: 
+}
+
+.artigos{
+	background-color: white;
+}
+.artigos ul li a{
+	background-color: white;
+	height: auto;
+	text-decoration: none;
+	margin-right: 30px;
+}
+.artigos ul li{
+	display: table-cell;
+}
+.box img{
+	float: right;
+	margin: 15px;
+}
+
+
+.rodapé{
+	height: 100px;
+	background-color: yellow;
+}
